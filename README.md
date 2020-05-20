@@ -8,7 +8,7 @@ See `README.md` in each directory for details.
 
 # Citation
 
-Oono, K., & Suzuki, T. (2019). Graph Neural Networks Exponentially Lose Expressive Power for Node Classification. In International Conference on Learning Representations, 2020. URL https://openreview.net/forum?id=S1ldO2EFPr.
+Oono, K., & Suzuki, T. (2020). Graph Neural Networks Exponentially Lose Expressive Power for Node Classification. In International Conference on Learning Representations, 2020. URL https://openreview.net/forum?id=S1ldO2EFPr.
 
 ```
 @inproceedings{
