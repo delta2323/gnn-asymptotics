@@ -1,4 +1,4 @@
-This is the code for [Graph Neural Networks Exponentially Lose Expressive Power for Node Classification](https://openreview.net/forum?id=rytstxWAW), accepted in International Conference on Learning Representations (ICLR) 2020.
+This is the code for [Graph Neural Networks Exponentially Lose Expressive Power for Node Classification](https://openreview.net/forum?id=S1ldO2EFPr), accepted in International Conference on Learning Representations (ICLR) 2020.
 
 - gnn_dynamics: code for experiments in Section 6.1
 - gnn_normalization: code for experiment in Section 6.2
@@ -8,7 +8,7 @@ See `README.md` in each directory for details.
 
 # Citation
 
-Oono, K., & Suzuki, T. (2019). Graph Neural Networks Exponentially Lose Expressive Power for Node Classification. In International Conference on Learning Representations, 2020. URL https://openreview.net/forum?id=rytstxWAW.
+Oono, K., & Suzuki, T. (2019). Graph Neural Networks Exponentially Lose Expressive Power for Node Classification. In International Conference on Learning Representations, 2020. URL https://openreview.net/forum?id=S1ldO2EFPr.
 
 ```
 @inproceedings{
